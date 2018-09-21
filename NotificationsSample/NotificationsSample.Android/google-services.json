@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "827356065973",
+    "firebase_url": "https://notificationsample-f968d.firebaseio.com",
+    "project_id": "notificationsample-f968d",
+    "storage_bucket": "notificationsample-f968d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827356065973:android:47cbd1277ade7f5f",
+        "android_client_info": {
+          "package_name": "com.peacecwz.notificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827356065973-249s32tm3ku6hc6t679jlc7lkkvfc2tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSGrqyqg5hUIhxMOibQbFrul0HT0qhkmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
