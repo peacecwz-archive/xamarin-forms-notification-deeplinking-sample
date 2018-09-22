@@ -14,7 +14,7 @@ namespace NotificationsSample
         public App ()
         {
             InitializeComponent();
-            OneSignal.Current.StartInit("a7784902-2abe-44c4-ba3a-26be8a68a4c6")
+            OneSignal.Current.StartInit("OneSignal-Key-Here")
                 .InFocusDisplaying(OSInFocusDisplayOption.None)
                 .HandleNotificationReceived(OnNotificationRecevied)
                 .HandleNotificationOpened(OnNotificationOpened)

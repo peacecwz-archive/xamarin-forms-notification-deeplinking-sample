@@ -34,9 +34,9 @@ namespace NotificationsSample.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             var options = new FirebaseOptions.Builder()
-                .SetApplicationId("1:827356065973:android:47cbd1277ade7f5f")
-                .SetApiKey("AIzaSyDq4M-SHiuHmNrQQhUhy31oTRJzUpbsCd4")
-                .SetGcmSenderId("827356065973")
+                .SetApplicationId("Firebase-ApplicationId")
+                .SetApiKey("Firebase-WebApi-Key")
+                .SetGcmSenderId("FCM-Sender-Id")
                 .Build();
             try
             {
